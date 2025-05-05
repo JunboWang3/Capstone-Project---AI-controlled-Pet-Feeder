@@ -3,9 +3,9 @@ As pet ownership continues to rise, many pet owners struggle to ensure their pet
 
 PetPal combines cutting-edge technologies including computer vision, audio recognition, weight sensing, and behavioral analysis to:
  - Visual Detection Module: Detects the presence of animals and classifies them as cats or dogs using a camera and YOLO-based object detection.
- - Audio Recognition Module: Identifies cat meows with a custom-trained model, serving as an additional confirmation trigger.
+ - Audio Identification Module: Identifies cat meows with a custom-trained model, serving as an additional confirmation trigger.
  - Breed Classification Module: Recognizes the specific breed of the cat using deep learning to enable personalized feeding logic.
- - Weight-Based Adjustment: Uses a load cell to weigh the cat and dynamically adjust food portions for optimal health.
+ - Weight-Based Feeding Module: Uses a load cell to weigh the cat and dynamically adjust food portions for optimal health.
  - Behavior Prediction Module: Analyzes data from previous modules using a TensorFlow neural network to predict cat behavior and sends the results to the user’s mobile.
 
 All data is processed in real-time and synchronized to the owner's mobile device, allowing remote monitoring and management. This modular and extensible system is ideal for homes, shelters, and veterinary clinics, and lays the foundation for future expansion to other pets and features. With PetPal, we aim to reduce feeding errors, promote healthier pets, and provide peace of mind for cat owners through smart automation.
