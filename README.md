@@ -9,3 +9,5 @@ PetPal combines cutting-edge technologies including computer vision, audio recog
  - Behavior Prediction Module: Analyzes data from previous modules using a TensorFlow neural network to predict cat behavior and sends the results to the user’s mobile.
 
 All data is processed in real-time and synchronized to the owner's mobile device, allowing remote monitoring and management. This modular and extensible system is ideal for homes, shelters, and veterinary clinics, and lays the foundation for future expansion to other pets and features. With PetPal, we aim to reduce feeding errors, promote healthier pets, and provide peace of mind for cat owners through smart automation.
+
+[Project Demo Video] https://youtu.be/jQ0eHVT1qhM?si=3xlcTGhPrOp_rLBb
